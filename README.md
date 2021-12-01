@@ -1,5 +1,5 @@
 # evenOdd
-[![Build Status](http://localhost:8080/buildStatus/icon?job=library-from-github-pipeline)
+[![Build Status](http://localhost:8080/buildStatus/icon?job=library-from-github-pipeline)]
 
 A Jenkins even/odd playbook from the Jenkins.io documentation
 
